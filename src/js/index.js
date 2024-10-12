@@ -65,11 +65,18 @@ async function handle_current_weather() {
     const city = database_json.city;
     const country = database_json.country;
     
-    const response = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&current_weather=true`);
+    // Start measuring time
+    const startTime = performance.now();
+    
+    const response = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=-37.814&longitude=144.9633&current_weather=true`);
     const data = await response.json();
+    
+    // End measuring time
+    const endTime = performance.now();
+    const timeTaken = Math.round(endTime - startTime); // Calculate time taken in milliseconds
 
     const temperature = Math.round(data.current_weather.temperature);
-    const description = "took 41ms";
+    const description = `took ${timeTaken} ms`; // Use the actual time taken
 
     current_weather_element.textContent = `${temperature} °C | ${description}`;
 };
