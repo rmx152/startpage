@@ -6,17 +6,66 @@
 
     "categories": {
         "work": {
-            "slack": "https://slack.com/",
-            "trello": "https://trello.com"
+            "email": "https://mail.proton.me/u/0/inbox//",
+            "gmail": "https://mail.google.com/mail/u/0/",
+            "drive": "https://drive.google.com/drive/my-drive",
+            "github": "https://github.com",
+            "trello": "https://trello.com/",
+            "coda": "https://coda.io/"
         },
         "news": {
-            "xataka": "https://xataka.com",
-            "theverge": "https://theverge.com"
+            "ap": "https://apnews.com/",
+            "reuters": "https://www.reuters.com/",
+            "nytimes": "https://www.nytimes.com/",
+            "ft": "https://www.ft.com/",
+            "tv": "https://www.tradingview.com/markets/",
+            "quant": "https://www.quiverquant.com/"
         },
-        "social": {
-            "github": "https://github.com",
-            "reddit": "https://reddit.com",
-            "discord": "https://discord.com/channels/@me"
+        "study": {
+            "classroom": "https://classroom.google.com/",
+            "excalidraw": "https://excalidraw.com/",
+            "vce": "https://atar.rocks/vce/",
+            "vcaa": "https://www.vcaa.vic.edu.au/Pages/HomePage.aspx",
+            "equ": "https://equ-ed.com/",
+            "math": "https://vicmathsnotes.weebly.com/",
+            "chem": "https://www.chemastery.education/",
+            "desmos": "https://www.desmos.com/",
+            "wolfram": "https://wolfreealpha.netlify.app/input/",
+            "chebook": "https://www.vcaa.vic.edu.au/Documents/exams/chemistry/chemistry-databook-w.pdf",
+            "ptable": "https://ptable.com/",
+            "dictionary": "https://www.dictionary.com/",
+            "thesaurus": "https://www.thesaurus.com/",
+            "timer": "https://timebleed.com/",
+            "art": "https://artsandculture.google.com/"
+        },
+        "tools": {
+            "fmhy": "https://fmhy.net/",
+            "scihub": "https://sci-hub.se/",
+            "zlib": "https://singlelogin.re/",
+            "libgen": "https://libgen.is/",
+            "anna": "https://annas-archive.org/",
+            "mobilism": "https://forum.mobilism.org/index.php",
+            "cobalt": "https://cobalt.tools/",
+            "exch": "https://exch.cx/",
+            "kycnotme": "https://kycnot.me/",
+            "smspool": "https://www.smspool.net/main",
+            "tempmail": "https://temp-mail.org/en/",
+            "cia": "https://cia.tf/",
+            "offshore": "files.offshore.cat/",
+            "smspool": "https://www.smspool.net/main",
+            "tempmail": "https://temp-mail.org/en/",
+            "cooked": "https://cooked.wiki/",
+            "photopea": "https://www.photopea.com/",
+            "workout": "https://musclewiki.com",
+            "fitness": "https://thefitness.wiki/",
+            "artdl": "https://dezoomify.ophir.dev/"
+        },
+        "entertainment": {
+            "discord": "https://discord.com/channels/@me",
+            "youtube": "https://youtube.com",
+            "ttv": "https://www.twitch.tv",
+            "braflix": "https://www.braflix.gd/",
+            "miruro": "https://www.miruro.com/"
         }
     }
 }
