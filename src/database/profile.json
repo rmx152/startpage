@@ -37,14 +37,6 @@
             "slum": "https://open-slum.org/",
             "photo": "https://www.photopea.com/"
         },
-        "games": {
-            "steam": "https://store.steampowered.com/",
-            "riot": "https://www.riotgames.com/en",
-            "vlr": "https://vlr.gg/",
-            "alytics": "https://www.lolalytics.com/",
-            "dpm": "https://www.dpm.lol/",
-            "tracker": "https://tracker.gg/"
-        },
         "entertainment": {
             "discord": "https://discord.com/channels/@me",
             "youtube": "https://youtube.com",
